@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background-color: #3f6212;
+}
+
+header {
+    font-size: larger;
+    background-color: #4d7c0f;
+    color: white;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
