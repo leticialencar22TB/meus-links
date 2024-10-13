@@ -19,9 +19,12 @@ header {
 
 main .primeira img {
     height: 17rem;
+    display: block;
+    margin-top: 3rem;
+
 }
 
 main .primeira {
-    display: flex;
-    align-items: flex-start;
+    align-items: center;
+    justify-content: center;
 }
